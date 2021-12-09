@@ -20,12 +20,14 @@
 ./Documents/  
     ~ 海報、報告文件  
 
+./extended_tools/  
+	~ 本專題所使用之魚眼估計與Kalman濾波器之實作程式碼
+
 ./installation_config/  
     ~ 建立本專題conda環境的設定檔案  
-    
+
 ./trained_model/  
     ~ 本專題所訓練出的2D辨識模組  
-
 
 #### 專案結構
 該結構為範例，請參照專題報告文件中，模組設計描述之檔案架購一節。  
