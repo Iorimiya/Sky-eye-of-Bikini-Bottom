@@ -44,4 +44,3 @@
 ### 相關連結
 
 [專題展示影片](https://youtu.be/Ha3jAxk8U48)
-{%youtube Ha3jAxk8U48 %}
