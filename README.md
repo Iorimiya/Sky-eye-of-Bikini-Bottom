@@ -32,6 +32,8 @@
 因範例結構具有超過github上傳限制之檔案，故以Google Drive 空間分享。  
 (檔案有效保證期限：至海洋大學刪除00757103@email.ntou.edu.tw帳號時)
 
+[檔案連結](https://drive.google.com/file/d/14ySOMrzoX7HTlWrVEAIhwRmez8r6GOf4/view?usp=sharing)
+
 ##### 2D Project Structure
 使用iteration 1,200,000 之已訓練專案作為範例
 
@@ -39,4 +41,7 @@
 ##### 3D Project Structure
 使用第五組拍攝之雙鏡頭影片之已校正專案作為專案範例
 
+### 相關連結
 
+[專題展示影片](https://youtu.be/Ha3jAxk8U48)
+{%youtube Ha3jAxk8U48 %}
