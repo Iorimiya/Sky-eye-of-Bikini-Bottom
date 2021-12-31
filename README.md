@@ -42,7 +42,3 @@
 
 ##### 3D Project Structure
 使用第五組拍攝之雙鏡頭影片之已校正專案作為專案範例
-
-### 相關連結
-
-[專題展示影片](https://youtu.be/Ha3jAxk8U48)
